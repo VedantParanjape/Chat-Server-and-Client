@@ -4,6 +4,9 @@
 
 **Download the compiled programs and create a blank folder each in the server and client folder, move the downloaded programs to the newly created folder, i mean the server program into the the empty folder in server folder and do the same for the client program.**
 
+**There is also a executable named "RunMeOnlyOnce.exe"(32 bit or 64 bit). Download the 32 bit or 64 bit version which ever suits you.
+But remember that this executable must be present in subfolder under server and client folder, where the client and server programs are stored.**
+
 **INTRODUCTION**
 
 Instant messengers have become a daily part of our life. We cannot imagine a life without Whatsapp, Telegram, Hike, etc. I was always curious about their working, so I spent some time and learnt about their theory of implementation. Equipped with the right knowledge I have created a very basic implementation of instant messengers.
