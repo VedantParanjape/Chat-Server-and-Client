@@ -1,5 +1,9 @@
 # Chat-Server-and-Client
 
+**INSTRUCTIONS ON FIRST RUN**
+
+**Download the compiled programs and create a blank folder each in the server and client folder, move the downloaded programs to the newly created folder, i mean the server program into the the empty folder in server folder and do the same for the client program.**
+
 **INTRODUCTION**
 
 Instant messengers have become a daily part of our life. We cannot imagine a life without Whatsapp, Telegram, Hike, etc. I was always curious about their working, so I spent some time and learnt about their theory of implementation. Equipped with the right knowledge I have created a very basic implementation of instant messengers.
