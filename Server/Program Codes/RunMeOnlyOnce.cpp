@@ -11,7 +11,5 @@ main()
 	file<<val;
 	
 	file.close();
-	delete &val;
-	delete &file;
-	exit(0);
+        cout << " donot run this again";
 }
