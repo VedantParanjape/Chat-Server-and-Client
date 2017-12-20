@@ -12,5 +12,4 @@ main()
 	
 	file.close();
 	cout<<"Counter set, dont run this again"<<endl;
-	exit(0);
 }
